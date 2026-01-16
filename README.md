@@ -31,6 +31,6 @@ jobs:
 
 ## Requirements
 
-- Repository must have GitHub Pages enabled (Go to Settings > Pages in your repository to enable it)
+- Repository must have GitHub Pages enabled (Go to Settings > Pages in your repository to enable it. Select `Github Actions` under `Build and Deployment` in the `Source` drop-down)
 - `.tex` files can be located anywhere in the repository
 - No additional setup required - the workflow handles everything
